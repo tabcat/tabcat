@@ -1,5 +1,4 @@
 #### ✨Hello Traveler✨
-</br>
 
 👨‍💻 </br>
 My name is Daniel. </br>
