@@ -10,8 +10,8 @@ Right now I work on [Opal](https://github.com/cypsela/opal).
 ---
 
 📫 Contact</br>
-&emsp; &emsp; tabcat00@proton.me</br>
-&emsp; &emsp; [@tabcat00:matrix.org](https://matrix.to/#/@tabcat00:matrix.org)
+&emsp; &emsp; email: tabcat00@proton.me</br>
+&emsp; &emsp; matrix: [@tabcat00:matrix.org](https://matrix.to/#/@tabcat00:matrix.org)
 
 📐 Projects</br>
 &emsp; &emsp; Active</br>
@@ -21,7 +21,7 @@ Right now I work on [Opal](https://github.com/cypsela/opal).
 &emsp; &emsp; &emsp; &#8226; [sailplane-web](https://github.com/cypsela/sailplane-web) - collaborative p2p file manager in the browser</br>
 
 🏆 Showcase</br>
-&emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u)🥇🧙‍♂️</br>
+&emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u)🧙‍♂️</br>
 &emsp; &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe)🏁
 
 
