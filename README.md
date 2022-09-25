@@ -20,8 +20,8 @@ Right now I work on [Opal](https://github.com/cypsela/opal).
 &emsp; &emsp; &emsp; &#8226; [sailplane-web](https://github.com/cypsela/sailplane-web) - collaborative p2p file manager in the browser</br>
 
 🏆 Showcase</br>
-&emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u)🧙‍♂️</br>
-&emsp; &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe)🏁
+&emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️</br>
+&emsp; &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe) 🏁
 
 
 <!--
