@@ -1,5 +1,3 @@
-#### ✨Hello Traveler✨
-
 My name is Daniel. </br>
 I'm interested in resilient design.
 
