@@ -5,8 +5,6 @@ I'm interested in resilient design.
 
 Right now I work on [Opal](https://github.com/cypsela/opal).
 
----
-
 <!--
 
 📫 Contact</br>
