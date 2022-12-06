@@ -40,7 +40,7 @@ I'm interested in resilient design.
 <details>
   <summary>🏆 Showcase</summary>
   
-  &emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️</br>
+  &emsp; &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️🥇</br>
   &emsp; &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe) 🏁
 </details>
 
