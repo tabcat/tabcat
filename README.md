@@ -32,8 +32,8 @@ I'm interested in resilient design.
   
   &emsp; &emsp; Active</br>
   &emsp; &emsp; &emsp; &#8226; [opal](https://github.com/cypsela/opal) - peer-to-peer, collaborative states using merkle-crdts</br>
-  &emsp; &emsp; Icebox</br>
   &emsp; &emsp; &emsp; &#8226; [zzzync](https://github.com/tabcat/zzzync) - sync with peers that have gone to sleep Zzz</br>
+  &emsp; &emsp; Icebox</br>
   &emsp; &emsp; &emsp; &#8226; [sailplane-web](https://github.com/cypsela/sailplane-web) - collaborative p2p file manager in the browser</br>
 </details>
 
