@@ -1,5 +1,11 @@
-My name is Daniel.
+<details>
+  <summary>👨‍💻</summary>
 
+  ```bash
+$ whoami
+daniel
+  ```
+</details>
 <details>
   <summary>📫</summary>
 
