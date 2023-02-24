@@ -7,12 +7,6 @@ daniel
   ```
 </details>
 <details>
-  <summary>📫</summary>
-
-  &emsp; [tabcat00@proton.me](mailto:tabcat00@proton.me)<br/>
-  &emsp; [@tabcat00:matrix.org](https://matrix.to/#/@tabcat00:matrix.org)
-</details>
-<details>
   <summary>🏆</summary>
   
   &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️🥇</br>
