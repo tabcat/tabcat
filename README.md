@@ -3,13 +3,13 @@
 
   ```json
 {
-  name: "daniel",
-  likes: [
+  "name": "daniel",
+  "likes": [
     "biking",
     "impressionism",
     "swagging out"
   ],
-  location: "chiberspace"
+  "location": "chiberspace"
 }
   ```
 </details>
