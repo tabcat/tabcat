@@ -1,9 +1,16 @@
 <details>
   <summary>👨‍💻</summary>
 
-  ```bash
-$ whoami
-daniel
+  ```json
+{
+  name: "daniel",
+  likes: [
+    "biking",
+    "impressionism",
+    "swagging out"
+  ],
+  location: "chiberspace"
+}
   ```
 </details>
 <details>
