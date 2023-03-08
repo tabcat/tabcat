@@ -7,7 +7,7 @@
     "likes": [
       "biking",
       "impressionism",
-      "swagging out"
+      "liquid funk"
     ],
     "location": "chiberspace"
 }
