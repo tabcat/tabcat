@@ -7,7 +7,7 @@
     "likes": [
       "biking",
       "impressionism",
-      "breakcore"
+      "liquid dnb"
     ],
     "location": "chiberspace"
 }
