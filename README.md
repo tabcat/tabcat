@@ -9,7 +9,8 @@
       "impressionism",
       "breakcore"
     ],
-    "location": "chiberspace"
+    "location": "chiberspace",
+    "spirit animal": "Lockheed Martin F-22 Raptor"
 }
   ```
 </details>
