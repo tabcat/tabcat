@@ -7,7 +7,7 @@
     "likes": [
       "biking",
       "impressionism",
-      "breakcore"
+      "techno"
     ],
     "location": "chiberspace",
     "spirit animal": "Lockheed Martin F-22 Raptor"
