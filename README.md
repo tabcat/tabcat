@@ -15,6 +15,31 @@
   ```
 </details>
 <details>
+  <summary>🚧</summary>
+
+#### ~active
+
+  &emsp; [zzzync](https://github.com/tabcat/zzzync): tools for syncing dynamic content with offline peers</br>
+  &emsp; [welo](https://github.com/hldb/welo): rewrite of OrbitDB with replication and memory utilization features</br>
+  &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): decentralized dropbox web app</br>
+  &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file system</br>
+  &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): collaborative filesystem on OrbitDB</br>
+
+#### ~inactive
+
+  &emsp; [softphone](https://github.com/tabcat/softphone): attempt to make text/calling app using peer-account</br>
+  &emsp; [peer-account](https://github.com/tabcat/peer-account): attempt to make peer-to-peer "accounts"</br>
+  &emsp; [encrypted-docstore](https://github.com/tabcat/encrypted-docstore): encrypcted OrbitDB document store</br>
+  &emsp; [simple-chat-room](https://github.com/tabcat/simple-chat-room): barebones chat app using OrbitDB</br>
+  &emsp; [ens-subdomainer](https://github.com/tabcat/ens-subdomainer): UI to sell subdomains on ENS
+</details>
+<details>
+  <summary>📝</summary>
+  
+  &emsp; [dynamic-content](https://github.com/tabcat/dynamic-content): host dynamic content directly on IPFS</br>
+  &emsp; [rough-opal](https://github.com/tabcat/rough-opal): grant proposal for a rewrite of OrbitDB (welo)
+</details>
+<details>
   <summary>🏆</summary>
   
   &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️🥇</br>
