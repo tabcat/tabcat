@@ -19,11 +19,11 @@
 
 #### ~active
 
-  &emsp; [zzzync](https://github.com/tabcat/zzzync): tools for syncing dynamic content with offline peers</br>
+  &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
   &emsp; [welo](https://github.com/hldb/welo): rewrite of OrbitDB with replication and memory utilization features</br>
-  &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): decentralized dropbox web app</br>
-  &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file system</br>
-  &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): collaborative filesystem on OrbitDB</br>
+  &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): p2p dropbox web app</br>
+  &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file-system</br>
+  &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): file-system crdt</br>
 
 #### ~inactive
 
