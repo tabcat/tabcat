@@ -21,12 +21,12 @@
 
   &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
   &emsp; [welo](https://github.com/hldb/welo): rewrite of OrbitDB with replication and memory utilization features</br>
-  &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): p2p dropbox web app</br>
-  &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file-system</br>
-  &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): file-system crdt</br>
 
 #### ~inactive
 
+  &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): p2p dropbox web app</br>
+  &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file-system</br>
+  &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): file-system crdt</br>
   &emsp; [softphone](https://github.com/tabcat/softphone): attempt to make text/calling app using peer-account</br>
   &emsp; [peer-account](https://github.com/tabcat/peer-account): attempt to make peer-to-peer "accounts"</br>
   &emsp; [encrypted-docstore](https://github.com/tabcat/encrypted-docstore): encrypcted OrbitDB document store</br>
