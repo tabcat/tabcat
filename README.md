@@ -20,7 +20,7 @@
 #### ~active
 
   &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
-  &emsp; [welo](https://github.com/hldb/welo): rewrite of OrbitDB with replication and memory utilization features</br>
+  &emsp; [welo](https://github.com/hldb/welo): peer-to-peer and localfirst database</br>
 
 #### ~inactive
 
@@ -37,7 +37,7 @@
   <summary>📝</summary>
   
   &emsp; [dynamic-content](https://github.com/tabcat/dynamic-content): host dynamic content directly on IPFS</br>
-  &emsp; [rough-opal](https://github.com/tabcat/rough-opal): grant proposal for a rewrite of OrbitDB (welo)
+  &emsp; [rough-opal](https://github.com/tabcat/rough-opal): grant proposal to create p2p database (welo) and offline replication tool (zzzync)
 </details>
 <details>
   <summary>🏆</summary>
