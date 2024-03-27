@@ -21,7 +21,7 @@
 
   &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
   &emsp; [welo](https://github.com/hldb/welo): peer-to-peer and localfirst database</br>
-  &emsp; [welo](https://github.com/cypsela/newtab.eth): a new tab site for your browser</br>
+  &emsp; [newtab.eth](https://github.com/cypsela/newtab.eth): a new tab site for your browser</br>
 
 #### ~inactive
 
