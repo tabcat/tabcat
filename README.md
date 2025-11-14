@@ -19,13 +19,15 @@
 
 #### ~active
 
-  &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
-  &emsp; [welo](https://github.com/hldb/welo): peer-to-peer and localfirst database</br>
+  &emsp; [frostfire.eth](https://github.com/cypsela/frostfire.eth): TBA
+  &emsp; [prollipop](https://github.com/tabcat/prollipop): A modded Prolly-tree implementation in Typescript</br>
   &emsp; [newtab.eth](https://github.com/cypsela/newtab.eth): a new tab site for your browser</br>
   &emsp; [sorted-sets](https://github.com/tabcat/sorted-sets): utilities for working with sorted sets</br>
 
 #### ~inactive
 
+  &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
+  &emsp; [welo](https://github.com/hldb/welo): peer-to-peer and localfirst database</br>
   &emsp; [sailplane-web](https://github.com/cypsela/sailplane-web): p2p dropbox web app</br>
   &emsp; [sailplane-node](https://github.com/cypsela/sailplane-node): decentralized and collaborative file-system</br>
   &emsp; [orbit-db-fsstore](https://github.com/tabcat/orbit-db-fsstore): file-system crdt</br>
