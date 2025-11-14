@@ -39,13 +39,13 @@
 </details>
 <details>
   <summary>📝</summary>
-  
+
   &emsp; [dynamic-content](https://github.com/tabcat/dynamic-content): host dynamic content directly on IPFS</br>
   &emsp; [rough-opal](https://github.com/tabcat/rough-opal): grant proposal to create p2p database (welo) and offline replication tool (zzzync)
 </details>
 <details>
   <summary>🏆</summary>
-  
+
   &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️🥇</br>
   &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe) 🏁
 </details>
