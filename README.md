@@ -19,7 +19,7 @@
 
 #### ~active
 
-  &emsp; [frostfire.eth](https://github.com/cypsela/frostfire.eth): TBA
+  &emsp; [frostfire.eth](https://github.com/cypsela/frostfire.eth): TBA</br>
   &emsp; [prollipop](https://github.com/tabcat/prollipop): A modded Prolly-tree implementation in Typescript</br>
   &emsp; [newtab.eth](https://github.com/cypsela/newtab.eth): a new tab site for your browser</br>
   &emsp; [sorted-sets](https://github.com/tabcat/sorted-sets): utilities for working with sorted sets</br>
