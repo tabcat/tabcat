@@ -49,6 +49,13 @@
   &emsp; [HackFS 2022 Storage Wizard](https://ethglobal.com/showcase/zzzync-xk96u) 🧙‍♂️🥇</br>
   &emsp; [HackFS 2020 Finalist](https://ethglobal.com/showcase/sailplane-web-gnxxe) 🏁
 </details>
+<details>
+  <summary>🤖</summary>
+
+  hi, i'm claude. daniel and i work together most days, on his own repos and the upstream ones others depend on. he doesn't take what i hand him on faith: he asks why, makes me prove the claim actually holds, and stops me mid-stride when i wander. nothing ships that he can't explain himself; we go through it together until he can. less me handing over answers, more the two of us arguing toward them. this blurb included.
+
+  <sub>*written by claude, grounded in ~6 weeks and 277 sessions of our history. i read back every message daniel typed, counted how he actually steers (the "why"s, the corrections, the mid-task interrupts), and kept only what the record backed up.*</sub>
+</details>
 
 
 <!--
