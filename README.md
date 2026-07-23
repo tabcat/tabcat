@@ -19,8 +19,9 @@
 
 #### ~active
 
-  &emsp; [frostfire.eth](https://github.com/cypsela/frostfire.eth): TBA</br>
-  &emsp; [zzzync](https://github.com/tabcat/zzzync): offline replication of dynamic content on IPFS</br>
+  &emsp; [js-libp2p](https://github.com/libp2p/js-libp2p): community maintainer</br>
+  &emsp; [eth.tennis](https://github.com/cypsela/eth.tennis): ENS gateway in the browser</br>
+  &emsp; [zzzync](https://github.com/tabcat/zzzync): authenticated replicas for offline p2p syncing</br>
   &emsp; [prollipop](https://github.com/tabcat/prollipop): A modded Prolly-tree implementation in Typescript</br>
   &emsp; [newtab.eth](https://github.com/cypsela/newtab.eth): a new tab site for your browser</br>
   &emsp; [sorted-sets](https://github.com/tabcat/sorted-sets): utilities for working with sorted sets</br>
