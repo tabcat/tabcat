@@ -19,7 +19,7 @@
 
 #### ~active
 
-  &emsp; [js-libp2p](https://github.com/libp2p/js-libp2p): community maintainer</br>
+  &emsp; [js-libp2p](https://github.com/libp2p/js-libp2p): libp2p implementation in javascript</br>
   &emsp; [eth.tennis](https://github.com/cypsela/eth.tennis): ENS gateway in the browser</br>
   &emsp; [zzzync](https://github.com/tabcat/zzzync): authenticated replicas for offline p2p syncing</br>
   &emsp; [prollipop](https://github.com/tabcat/prollipop): A modded Prolly-tree implementation in Typescript</br>
